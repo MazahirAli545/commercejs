@@ -1,6 +1,6 @@
 # The Wild Oasis
 
-### Live Site : https://thewildoasis-akramexp.onrender.com/login
+### Live Site : https://mazahir-thewildoasis.netlify.app
 
 ## Description
 
